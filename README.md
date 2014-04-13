@@ -1,7 +1,7 @@
 NOTICE
 ======
 
-... a quick word about renaming.
+This repository has moved! The new location of the repo is [https://github.com/presseverykey/everykey-tutorial](https://github.com/presseverykey/everykey-tutorial)
 
 
 Just a quick notice to anyone potentially tracking these repositories: we've been informed that 
